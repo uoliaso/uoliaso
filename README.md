@@ -1,4 +1,4 @@
-Interest revolve around learning technologies as well as more broadly into any new technologies.
+Interests revolve around learning technologies as well as more broadly into any new technologies.
 
 <!--
 **uoliaso/uoliaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
